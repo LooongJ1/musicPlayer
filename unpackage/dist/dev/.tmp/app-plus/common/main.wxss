@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+.headText {
+	font-size: 50rpx;
+	font-family: PingFang-SC-Medium;
+	font-weight:bold;
+}
+page{
+	background-color: #f2f2f2;
+}
+

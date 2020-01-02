@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"songName { color: #000000; font-size: ",[0,28],"; font-family: PingFang-SC-Medium; }\n",],undefined,{path:"./pages/index/playList/playList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/playList/playList.wxml') } }));

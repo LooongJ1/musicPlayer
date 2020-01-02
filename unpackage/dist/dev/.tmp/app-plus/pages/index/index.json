@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "pullToRefresh": {
+    "support": true,
+    "color": "#000000",
+    "style": "circle",
+    "offset": "28%"
+  },
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer"
+  }
+}

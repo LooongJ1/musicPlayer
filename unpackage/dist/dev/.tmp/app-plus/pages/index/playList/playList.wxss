@@ -1,0 +1,7 @@
+
+.songName {
+	color: #000000;
+	font-size: 28rpx;
+	font-family: PingFang-SC-Medium;
+}
+
